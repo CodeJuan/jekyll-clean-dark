@@ -11,7 +11,7 @@ url: http://streetturtle.github.io
 baseurl: '/jekyll-clean-dark'
 
 social:
-  github: streetturtle
+  github: codejuan
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
@@ -22,7 +22,7 @@ yandex_metrika:
 # Set this to your disqus shortname to enable comments. Note that the 'comments'
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
-disqus: streetturtle
+disqus: decbug
 comments: true
 
 permalink: /:year/:month/:title
