@@ -32,7 +32,6 @@ int main()
      <form action="{{ request.path }}" method="post">
        <div>{{ _("你的IP") }} <input type="text" name="username"/></div>
        <div><input type="submit" value="{{ _("输入") }}"/></div>
-       {% module xsrf_form_html() %}
      </form>
    </body>
  </html>
